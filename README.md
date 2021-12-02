@@ -59,5 +59,5 @@ _DELETE_
 - delete product
 
 ## Want to see the Postman Screenshots?
-- [CLick Here](https://github.com/rowe20/Product-Management-APIs-MongoDB-/tree/main/assignment-5/Postman)!
+- [CLick Here](https://github.com/rowe20/Product-Management-APIs-MongoDB/tree/main/Product_Managment_API_Mongo_DB/Postman)!
 
